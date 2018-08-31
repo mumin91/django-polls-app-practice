@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e464b9f-f410-49cc-9a24-a35d5f52363e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/polls/templates/polls/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,13 +43,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="153" />
-          <entry key="py" value="1159" />
+          <entry key="py" value="1184" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="153" />
-          <entry key="Python" value="1159" />
+          <entry key="Python" value="1184" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -63,12 +61,12 @@
         <entry file="file://$PROJECT_DIR$/polls/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+              <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
-                <marker date="1535728056245" expanded="true" signature="482:487" ph="..." />
-                <marker date="1535728056245" expanded="true" signature="592:597" ph="..." />
-                <marker date="1535728056245" expanded="true" signature="734:739" ph="..." />
+                <marker date="1535728224183" expanded="true" signature="480:485" ph="..." />
+                <marker date="1535728224183" expanded="true" signature="590:595" ph="..." />
+                <marker date="1535728224183" expanded="true" signature="732:737" ph="..." />
               </folding>
             </state>
           </provider>
@@ -235,7 +233,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.37375414" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.37375414" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -330,12 +328,12 @@
     <entry file="file://$PROJECT_DIR$/polls/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <marker date="1535728056245" expanded="true" signature="482:487" ph="..." />
-            <marker date="1535728056245" expanded="true" signature="592:597" ph="..." />
-            <marker date="1535728056245" expanded="true" signature="734:739" ph="..." />
+            <marker date="1535728224183" expanded="true" signature="480:485" ph="..." />
+            <marker date="1535728224183" expanded="true" signature="590:595" ph="..." />
+            <marker date="1535728224183" expanded="true" signature="732:737" ph="..." />
           </folding>
         </state>
       </provider>
